@@ -18,3 +18,8 @@ Monday, June 13
 It was a good day overall. I started the day by going over the recend changes on our wiki and improved some of them. After that, I improved minor things on Wikipedia but some changes were not accepted for some reason!
 
 The Ice Cream Social was good and I think it brings all of the staff together. It was a blast. Now it is almost the end of the day and I am ready to go home so I can just chill for awhile until I get to eat because I am starving.
+------------
+------------
+Tuesday, June 14
+
+Here's a commit on tuesday to keep. Hopefully I will get to make a commit everyday.
