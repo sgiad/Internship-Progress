@@ -1,0 +1,30 @@
+Here are the notes for Wednesday June, 15
+
+Alex explained to us the real concept of jspwiki and how we use it. He also asked us 
+to do some other readings which I will be recording the notes of here.
+
+First of all, I have installed notepad++ and 7zip on my personal laptop. I am now about
+to start reading more about .jar and .war.
+
+.jar files (Java Archives) are basically files that contain libraries, resources, and
+accessories files like property files.
+
+.war files (Web Application Archives) are basically files that contain the web 
+application that can be deployed on any servlet/jsp container. They contain jsp, html,
+java script and other files that are necessary for the development of web application.
+
+Universal Wiki Converter (UWC) is a great tool that was developed by Altasian to
+transfer wiki content and pages to Confluence which would be easier than going 
+through that process manually. Almost all of the automation is done through the scripts
+that are already built-in within the software itself. There are steps on how to download
+the software and get it work online and can be found easily. 
+
+In the article (Help:HowToWiki) on wikipedia, there is an explaination on how to convert
+word documents to wiki pages using different tools such as VisualEditor, Word2MediaWikiPlus,
+LibreOffice, Openoffice, and some extensions that can be added to Microsoft Office. These
+tools are very useful especially when we are talking about converting huge documents that 
+consist of 300+ pages.
+
+There are other articles on the Internet that kind of explain the converting process step
+by step which is actually good and very helpful. I am still reading some of them to gain
+more knowledge about the whole converting process.
