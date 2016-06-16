@@ -23,3 +23,8 @@ The Ice Cream Social was good and I think it brings all of the staff together. I
 Tuesday, June 14
 
 Here's a commit on tuesday to keep. Hopefully I will get to make a commit everyday.
+------------
+------------
+Wednesday, June 15
+
+Today was a good day overall. I finally got to install jspwiki using git which was a relief. I spent some time reading about jar, war, and converting words documents to wiki pages. I also learned about wiki syntax because I will be doing much of that in the coming days. Overall, today was great and now I am just enjoying my evening with the family.
