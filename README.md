@@ -28,3 +28,11 @@ Here's a commit on tuesday to keep. Hopefully I will get to make a commit everyd
 Wednesday, June 15
 
 Today was a good day overall. I finally got to install jspwiki using git which was a relief. I spent some time reading about jar, war, and converting words documents to wiki pages. I also learned about wiki syntax because I will be doing much of that in the coming days. Overall, today was great and now I am just enjoying my evening with the family.
+-----------
+-----------
+Thursday, June 16
+
+1. Converted 125 pages from doc to wiki 
+2. Read about git svn, however, I still think need some help with installing openoffice
+
+That is the update for today.
