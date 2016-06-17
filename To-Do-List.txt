@@ -1,6 +1,5 @@
-To Do List for tomorow:
+To Do List for the weekend:
 
-1. Finish converting the document to WiKi
-2. Install openoffice using git
-3. Read more about Wiki Syntax
-4. Improve and modify recenet changes on Wiki
+1. Read more about git svn
+2. Try to find a way to install openoffice using git
+3. Sleep well lol
