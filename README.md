@@ -36,3 +36,8 @@ Thursday, June 16
 2. Read about git svn, however, I still think need some help with installing openoffice
 
 That is the update for today.
+----------
+----------
+Friday, June 17
+
+Today is almost over and the week went by faster than last week. We finished converting the document that was assigned to usand now it is almost time for us to go home. 
