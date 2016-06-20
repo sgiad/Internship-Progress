@@ -40,4 +40,8 @@ That is the update for today.
 ----------
 Friday, June 17
 
-Today is almost over and the week went by faster than last week. We finished converting the document that was assigned to usand now it is almost time for us to go home. 
+Today is almost over and the week went by faster than last week. We finished converting the document that was assigned to usand now it is almost time for us to go home.
+------------
+------------
+Sunday, June 19
+It was a good weekend overall and going back to work tomorrow. Hopefully I get ti finish installing everything I need and the week goes as smooth as last week.
