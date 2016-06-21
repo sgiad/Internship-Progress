@@ -1,5 +1,3 @@
-To Do List for Monday:
+To Do List for Tuesday:
 
-1. Try to finish installing the required programs. 
-2. Modify and improve more wiki pages.
-3. Learn about git svn
+Hopefully get to finish converting both required documents.
