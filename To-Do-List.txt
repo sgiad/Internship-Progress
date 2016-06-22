@@ -1,3 +1,4 @@
-To Do List for Tuesday:
+To Do List for Wednesday:
 
-Hopefully get to finish converting both required documents.
+1. Finish converting the document that I have started.
+2. Try to install openoffice
