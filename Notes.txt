@@ -28,3 +28,7 @@ consist of 300+ pages.
 There are other articles on the Internet that kind of explain the converting process step
 by step which is actually good and very helpful. I am still reading some of them to gain
 more knowledge about the whole converting process.
+
+
+--Eclipse--
+I can use JOptionPane on Eclipse which is good because that is what we mainly use at school.
