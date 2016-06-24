@@ -1,0 +1,3 @@
+.jar files (Java Archives) are basically files that contain libraries, resources, and accessories files like property files.
+
+.war files (Web Application Archives) are basically files that contain the web application that can be deployed on any servlet/jsp container. They contain jsp, html, java script and other files that are necessary for the development of web application.
