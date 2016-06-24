@@ -1,1 +1,6 @@
 --Notes regarding eclipse--
+
+- Good practice yesterday
+- About practice more today
+- I can use JOPtionPane easily instead of Scanner
+- About to write a simple program now
