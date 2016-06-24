@@ -1,3 +1,4 @@
-Thursday, June 23
+Friday, June 24
 
-Been working on eclipse practicing Java which was very helpful.
+Today I cloned sdcWiki and it was successful. I tried reading more about it and I will keep doing that 
+tomorrow as well.
