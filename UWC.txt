@@ -1,0 +1,5 @@
+Universal Wiki Converter (UWC) is a great tool that was developed by Altasian to
+transfer wiki content and pages to Confluence which would be easier than going 
+through that process manually. Almost all of the automation is done through the scripts
+that are already built-in within the software itself. There are steps on how to download
+the software and get it work online and can be found easily. 
