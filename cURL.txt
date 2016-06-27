@@ -1,0 +1,1 @@
+cURL is used to tranfer files using URLs.
