@@ -1,4 +1,4 @@
-To-Do list for Monday:
+To-Do list for Tuesday:
 
-1. Read more about SDC
-2. Modify and improve more wiki pages
+1. Read more about API, ReST, and cURL
+2. Write more code and practice arrays
