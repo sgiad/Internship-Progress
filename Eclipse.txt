@@ -4,3 +4,4 @@
 - About practice more today
 - I can use JOPtionPane easily instead of Scanner
 - About to write a simple program now
+- I have been trying to use arrays but I need to get back to it because it seems as if I have forgotten how to write any code
