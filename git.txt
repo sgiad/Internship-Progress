@@ -12,3 +12,5 @@ Git commands that I am aware of so far:
 10. git fetch 
 11. git pull 
 12. mvn (but it has to be installed first)
+13. git add 
+14. git commit 
