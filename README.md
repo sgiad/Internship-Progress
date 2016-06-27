@@ -1,3 +1,3 @@
-Sunday, June 26
+Monday, June 27
 
-no update!
+Been working on eclipse and reading about API, ReST, and cURL
