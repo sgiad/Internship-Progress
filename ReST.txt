@@ -1,0 +1,2 @@
+Representational State Transfer (ReST) relies on stateless, client-server, cacheable communications protocol -- and in 
+virtually all cases, the HTTP protocol is used. ReST is an architecture style for designing networked applications.
