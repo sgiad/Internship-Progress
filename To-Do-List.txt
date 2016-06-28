@@ -1,4 +1,5 @@
-To-Do list for Tuesday:
+To-Do list for Wednesday:
 
-1. Read more about API, ReST, and cURL
+1. Modify wiki pages
 2. Write more code and practice arrays
+3. Mini-golf event with the rest of the interns
