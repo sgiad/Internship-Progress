@@ -1,3 +1,3 @@
-Wednesday, June 29
+Thursday, June 30
 
-Created some wiki pages today and started building our converter with the help of Alex.
+Spent most of my time today creating wiki pages.
