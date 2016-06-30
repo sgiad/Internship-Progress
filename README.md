@@ -1,3 +1,3 @@
-Tuesday, June 28
+Wednesday, June 29
 
-Wrote Java code all day which was a great practice. I have done some sample programs hopefully we get to go over them.
+Created some wiki pages today and started building our converter with the help of Alex.

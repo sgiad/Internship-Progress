@@ -1,5 +1,4 @@
-To-Do list for Wednesday:
+To-Do list for Thursday:
 
-1. Modify wiki pages
-2. Write more code and practice arrays
-3. Mini-golf event with the rest of the interns
+1. Create and modify wiki pages
+2. Write more code and try to keep building our converter
