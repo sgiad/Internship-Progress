@@ -1,4 +1,4 @@
-To-Do list for Thursday:
+To-Do list for Friday:
 
 1. Create and modify wiki pages
 2. Write more code and try to keep building our converter
