@@ -1,2 +1,4 @@
 Very useful tool that we have been using to convert docs to wiki pages. It would have taken us so long to convert these pages;
-however, this tool is making it easier for us to convert.
+however, this tool is making it easier for us to convert. 
+
+The tool also needs some modifications because there are some things that are missing such as the appearance of a table.
