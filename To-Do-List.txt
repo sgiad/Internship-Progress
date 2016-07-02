@@ -1,4 +1,5 @@
-To-Do list for Friday:
+To-Do list for Satuday:
 
-1. Create and modify wiki pages
-2. Write more code and try to keep building our converter
+1. Read more about cURL
+2. practice JAVA
+3. Learn more about cloning mediawiki pages 
