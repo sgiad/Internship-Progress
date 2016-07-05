@@ -1,3 +1,3 @@
-Monday, July 4
+Tuesday, July 5
 
 No update.
