@@ -1,3 +1,3 @@
-Wednesday, July 6
+Sunday, July 10
 
-No update.
+Just got back from Texas, and tomorrow we get back to work!
