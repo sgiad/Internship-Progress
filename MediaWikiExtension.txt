@@ -2,3 +2,5 @@ Very useful tool that we have been using to convert docs to wiki pages. It would
 however, this tool is making it easier for us to convert. 
 
 The tool also needs some modifications because there are some things that are missing such as the appearance of a table.
+
+I wish it was an open source so we can edit and modify some of the features. 
