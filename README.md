@@ -1,3 +1,3 @@
-Sunday, July 10
+Monday, July 11
 
-Just got back from Texas, and tomorrow we get back to work!
+Today was a very produtive day because we got to create and modify many wiki pages!
