@@ -15,3 +15,5 @@ Git commands that I am aware of so far:
 13. git add 
 14. git commit 
 15. grep commands 
+------
+We can git clone wiki pages, edit them, and git push them when we are done editing. 
