@@ -1,4 +1,4 @@
-To-Do list for Tuesday: 
+To-Do list for Wednesday: 
 
 1. Read more about cURL
 2. practice JAVA
