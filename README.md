@@ -1,3 +1,3 @@
-Monday, July 11
+Tuesday, July 12
 
-Today was a very produtive day because we got to create and modify many wiki pages!
+Learned more about cURL.
