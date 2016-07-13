@@ -2,3 +2,5 @@ GitHub lets users contribute to different projects and make commits to them. How
 that was made by a history frame. 
 
 Back to using GitHub after a 5-days break!
+
+GitHub can be included in your resume.
