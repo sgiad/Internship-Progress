@@ -1,3 +1,3 @@
-Wednesday, July 13
+Thursday, July 14
 
-Had a great workshop about creating a professional resume and it was very helpful.
+Patrolled some wiki pages!
