@@ -1,3 +1,3 @@
-Thursday, July 14
+Friday, July 15
 
-Patrolled some wiki pages!
+Patrolled some wiki pages and enjoyed our intern event!
