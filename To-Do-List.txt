@@ -1,4 +1,4 @@
-To-Do list for Sunday: 
+To-Do list for Monday: 
 
 1. Read more about cURL
 2. practice JAVA
