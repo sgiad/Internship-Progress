@@ -1,5 +1,5 @@
-To-Do list for Monday: 
+To-Do list for Tuesday: 
 
 1. Read more about cURL
-2. practice JAVA
-3. Learn more about cloning mediawiki pages 
+2. Learn more about cloning mediawiki pages 
+3. Start building the converter 
