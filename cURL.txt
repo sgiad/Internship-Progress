@@ -1,1 +1,3 @@
 cURL is used to tranfer files using URLs.
+
+Still need to go over it to have a better understanding of it.
