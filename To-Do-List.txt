@@ -1,6 +1,7 @@
-To-Do list for Wednesday: 
+To-Do list for Thursday: 
 
 1. Read more about cURL
 2. Learn more about cloning mediawiki pages 
 3. Start building the converter 
 4. Try to figure out a way to migrate from ant to maven
+5. Finish migrating from ant to maven
