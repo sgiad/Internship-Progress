@@ -1,0 +1,1 @@
+Transitive dependencies are dependencies that are depending on main dependencies.
