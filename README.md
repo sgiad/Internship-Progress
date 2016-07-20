@@ -1,5 +1,5 @@
-Monday, July 18
+Tuesday, July 19
 
-- Gave a wiki-extension demo and went over some issues regarding it. 
 - About to start building the converter.
-- Had a demo about ZAP which was great!
+- Went over some codes with my colleagues. 
+- Trying to figure out a way to migrate from ant to maven.
