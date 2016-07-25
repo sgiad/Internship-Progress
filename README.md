@@ -1,4 +1,4 @@
-Saturday, July 23
+Sunday, July 24
 
 - About to start building the converter.
 - Went over some codes with my colleagues. 
