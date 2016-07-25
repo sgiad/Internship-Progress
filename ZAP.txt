@@ -18,8 +18,31 @@ Web Client Browser:
 
 Configure your browsr to send traffic to your localhost 8080.
 --------------------
-ZED ATTACK PROXY (ZAP)
+ZED ATTACK PROXY (ZAP):
 
 This open source tool was developed at the Open Web Application Security Project (OWASP).
 Its main goal is to allow easy penetration testing to find vulnerabilities in web applications.
 It is ideal for developers and functional testers as well as security experts. 
+
+
+
+ZED ATTACK PROXY FEATURES:
+
+- Intercepting Proxy
+- Automated Scanner
+- Passive Scanner
+- Brute Force Scanner
+- Fuzzer
+- Spider
+- Web Sockets 
+- REST API
+
+
+
+GETTING STARTED WITH ZAP: 
+
+Clicking on quick start tab will let the user to insert a url for his/her web application
+and start the attack. Once the attack is started, ZAP will crawl through his/her web 
+application and record all of the url's from his/her domain. However, it will skip url's
+from other domains. Secondly, ZAP will run different attacks scenarios against the found
+url's and record the results as well.
