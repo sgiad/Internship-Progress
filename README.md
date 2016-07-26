@@ -1,6 +1,3 @@
-Monday, July 25
+Tuesday, July 26
 
-- About to start building the converter.
-- Went over some codes with my colleagues. 
-- Worked on creating dependencies and transitive dependencies.
-- Learned more about ZAP.
+Finished migrating from ant to maven for uwc.
