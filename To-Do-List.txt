@@ -1,4 +1,5 @@
 To-Do list for Tuesday: 
 
-Learn more about ZAP and try to run attacks against some urls that would not affect
+- Learn more about ZAP and try to run attacks against some urls that would not affect
 the content of them. 
+- Attend my resume meeting.
