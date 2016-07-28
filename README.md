@@ -1,3 +1,3 @@
-Tuesday, July 26
+Wednesday, July 27
 
-Finished migrating from ant to maven for uwc.
+Wrote some intrusion tests.
