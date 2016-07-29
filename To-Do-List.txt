@@ -1,5 +1,4 @@
-To-Do list for Thursday: 
+To-Do list for Friday: 
 
 - Learn more about ZAP and try to run attacks against some urls that would not affect
 the content of them. 
-- Enjoy our Interns event!
