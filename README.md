@@ -1,3 +1,3 @@
-Wednesday, July 27
+Thursday, July 28
 
-Wrote some intrusion tests.
+Wrote some intrusion tests and enjoyed our interns event.
