@@ -9,3 +9,7 @@ s as well as open source.
 Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides
 access control and several collaboration features, such as a wikis and basic task management
 tools for every project.
+
+3. API - Application program interface (API) is a set of routines, protocols, and tools for 
+building software applications. An API specifies how software components should interact and 
+APIs are used when programming graphical user interface (GUI) components.
