@@ -42,3 +42,8 @@ is managed and directed by the Eclipse.org Consortium.
 10. HTTP:- Stands for Hyper Text Transfer Protocol. It allows World Wide Web users to transfer
 information like images, text, video, music, graphic, and other files on web pages. HTTP is 
 basically used to access html pages and also other resources can be accessible using HTTP.
+
+11. HTTPS:- Stands for Hypertext Transfer Protocol Secure. HTTPS is a protocol which uses an 
+encrypted HTTP connection by transport-layer security. Sometimes the clients may be exchanging 
+private information with a server, which needs to be secured for preventing some hacking 
+issues.
