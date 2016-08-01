@@ -38,3 +38,7 @@ code, runtime, system tools, system libraries – anything that can be installed
 9. Eclipse:- Eclipse is a Java-based open source platform that allows a software developer to create 
 a customized development environment (IDE) from plug-in components built by Eclipse members. Eclipse 
 is managed and directed by the Eclipse.org Consortium.
+
+10. HTTP:- Stands for Hyper Text Transfer Protocol. It allows World Wide Web users to transfer
+information like images, text, video, music, graphic, and other files on web pages. HTTP is 
+basically used to access html pages and also other resources can be accessible using HTTP.
