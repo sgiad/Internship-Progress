@@ -54,3 +54,7 @@ files like property files.
 13. War Files:- (Web Application Archives) are basically files that contain the web application that 
 can be deployed on any servlet/jsp container. They contain jsp, html, java script and other files 
 that are necessary for the development of web application.
+
+14. Maven:- Maven is a build automation tool used primarily for Java projects. The word maven means 
+"accumulator of knowledge" in Yiddish. Maven addresses two aspects of building software: first, it 
+describes how software is built, and second, it describes its dependencies.
