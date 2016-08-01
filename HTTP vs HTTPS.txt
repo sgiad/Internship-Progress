@@ -1,2 +1,9 @@
 Difference between HTTP and HTTPS: 
 
+HTTP:- Stands for Hyper Text Transfer Protocol. It allows World Wide Web users to transfer
+information like images, text, video, music, graphic, and other files on web pages. HTTP is 
+basically used to access html pages and also other resources can be accessible using HTTP.
+Facts: 
+- The term HTTP is originated by Ted Nelson. 
+- HTTP connections uses a port 80 by default. 
+- HTTP URLs begin with "http://".
