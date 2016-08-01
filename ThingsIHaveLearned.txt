@@ -34,3 +34,7 @@ dependencies.
 8. Docker:- Package your application into a standardized unit for software development. Docker 
 containers wrap a piece of software in a complete file system that contains everything needed to run: 
 code, runtime, system tools, system libraries – anything that can be installed on a server.
+
+9. Eclipse:- Eclipse is a Java-based open source platform that allows a software developer to create 
+a customized development environment (IDE) from plug-in components built by Eclipse members. Eclipse 
+is managed and directed by the Eclipse.org Consortium.
