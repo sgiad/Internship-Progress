@@ -47,3 +47,6 @@ basically used to access html pages and also other resources can be accessible u
 encrypted HTTP connection by transport-layer security. Sometimes the clients may be exchanging 
 private information with a server, which needs to be secured for preventing some hacking 
 issues.
+
+12. Jar Files - (Java Archives) are basically files that contain libraries, resources, and accessories 
+files like property files.
