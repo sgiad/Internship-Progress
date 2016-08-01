@@ -1,3 +1,3 @@
-Sunday, July 31
+Monday, August 1
 
-None.
+Researched HTTP vs HTTPS
