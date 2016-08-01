@@ -7,3 +7,12 @@ Facts:
 - The term HTTP is originated by Ted Nelson. 
 - HTTP connections uses a port 80 by default. 
 - HTTP URLs begin with "http://".
+
+
+HTTPS:- Stands for Hypertext Transfer Protocol Secure. HTTPS is a protocol which uses an 
+encrypted HTTP connection by transport-layer security. Sometimes the clients may be exchanging 
+private information with a server, which needs to be secured for preventing some hacking 
+issues.
+Facts: 
+- HTTPS uses a port 443 by default to transfer the information 
+- HTTP URLs begin with "https://"
