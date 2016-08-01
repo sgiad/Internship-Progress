@@ -66,3 +66,9 @@ and by many other wikis, including this website, the home of MediaWiki.
 16. ReST:- REST stands for Representational State Transfer. (It is sometimes spelled "ReST".) It relies 
 on a stateless, client-server, cacheable communications protocol -- and in virtually all cases, the HTTP 
 protocol is used. REST is an architecture style for designing networked applications.
+
+17.Universal Wiki Converter (UWC):- A great tool that was developed by Altasian to transfer wiki content 
+and pages to Confluence which would be easier than going through that process manually. Almost all of the 
+automation is done through the scripts that are already built-in within the software itself. There are steps 
+on how to download.
+the software and get it work online and can be found easily. 
