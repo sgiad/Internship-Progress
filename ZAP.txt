@@ -64,3 +64,15 @@ The browser now can be used to access the web application. ZAP will automaticall
 the traffic. In the "Sites" window, all websites and requests that ZAP recorded will be
 displayed. Right click on a single site and a user should be able to configure ZAP to
 attack the found URLs. 
+
+
+Integrating ZAP with your continuous delivery lifecycle: 
+
+Overall, ZAP is a great tool to be used when doing penetration testing. ZAP also can be
+integrated in continuous delivery/delivery lifecycle using Jenkins. To automate the 
+penetration testing, there need to be automated acceptance tests that drive the web
+application. Tests can be written using jBehave or Cucumber. The following diagram shows 
+the setup; also, ZAP needs to be configured as a proxy to record the traffic of a web 
+browser. jBehave/Cucumber --> Browser --> ZAP --> Web application. After using the previous
+diagram to run intrusion tests, you will get multiple results and some of them should be 
+fixed. 
