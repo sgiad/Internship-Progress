@@ -27,3 +27,6 @@ you have gained a lot. Maven downloads and links the dependencies for you on com
 goals that require them. As an added bonus, Maven brings in the dependencies of those dependencies 
 (transitive dependencies), allowing your list to focus solely on the dependencies your project 
 requires.
+
+7. Transitive Dependencies:- Transitive dependencies are dependencies that are depending on main 
+dependencies.
