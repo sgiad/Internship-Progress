@@ -10,13 +10,14 @@ Git is a command line tool, GitHub provides a Web-based graphical interface. It 
 access control and several collaboration features, such as a wikis and basic task management
 tools for every project.
 
-3. API - Application program interface (API) is a set of routines, protocols, and tools for 
+3. API:- Application program interface (API) is a set of routines, protocols, and tools for 
 building software applications. An API specifies how software components should interact and 
 APIs are used when programming graphical user interface (GUI) components.
 
-4. BitBucket - is a web-based hosting service for projects that use either the Mercurial 
+4. BitBucket:- is a web-based hosting service for projects that use either the Mercurial 
 (since launch) or Git (since October 2011) revision control systems. Bitbucket offers both 
 commercial plans and free accounts.
 
-5. is a computer software project providing a library and command-line tool for transferring 
+5. cURL:- is a computer software project providing a library and command-line tool for transferring 
 data using various protocols. The cURL project produces two products, libcurl and cURL.
+
