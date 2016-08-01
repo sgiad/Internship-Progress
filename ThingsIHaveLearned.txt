@@ -30,3 +30,7 @@ requires.
 
 7. Transitive Dependencies:- Transitive dependencies are dependencies that are depending on main 
 dependencies.
+
+8. Docker:- Package your application into a standardized unit for software development. Docker 
+containers wrap a piece of software in a complete file system that contains everything needed to run: 
+code, runtime, system tools, system libraries – anything that can be installed on a server.
