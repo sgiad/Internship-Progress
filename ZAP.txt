@@ -46,3 +46,21 @@ and start the attack. Once the attack is started, ZAP will crawl through his/her
 application and record all of the url's from his/her domain. However, it will skip url's
 from other domains. Secondly, ZAP will run different attacks scenarios against the found
 url's and record the results as well.
+
+
+Configure ZAP as a proxy:
+
+ZAP can be used as a proxy. The local web browser can be configured to be used as a proxy
+while browsing a web application. This allows ZAP to record the traffic and use that traffic
+for a replay attack while modifying the request parameters. 
+Here is how to do it: 
+- Activate ZAP as a proxy
+- Open ZAP --> Tools --> Options --> Local Proxy
+- Configure the address and port on which ZAP will listen for requests
+---> Address: localhost
+---> Port: 8080
+- Change local browser to use this proxy: Settings --> Network --> Proxy Settings
+The browser now can be used to access the web application. ZAP will automatically record 
+the traffic. In the "Sites" window, all websites and requests that ZAP recorded will be
+displayed. Right click on a single site and a user should be able to configure ZAP to
+attack the found URLs. 
