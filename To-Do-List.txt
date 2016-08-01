@@ -1,4 +1,6 @@
-To-Do list for Friday: 
+To-Do list for Monday: 
 
 - Learn more about ZAP and try to run attacks against some urls that would not affect
 the content of them. 
+- Try to finish building the converter
+- Try to finish writing Intrusion Tests
