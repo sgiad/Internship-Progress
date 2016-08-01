@@ -21,3 +21,9 @@ commercial plans and free accounts.
 5. cURL:- is a computer software project providing a library and command-line tool for transferring 
 data using various protocols. The cURL project produces two products, libcurl and cURL.
 
+6. Dependencies:- The cornerstone of the POM is its dependency list. Most every project depends 
+upon others to build and run correctly, and if all Maven does for you is manage this list for you, 
+you have gained a lot. Maven downloads and links the dependencies for you on compilation and other 
+goals that require them. As an added bonus, Maven brings in the dependencies of those dependencies 
+(transitive dependencies), allowing your list to focus solely on the dependencies your project 
+requires.
