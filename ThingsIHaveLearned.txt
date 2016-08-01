@@ -4,3 +4,8 @@ Things I have learned during my Internship:
 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel. A staggering
 number of software projects rely on Git for version control, including commercial project
 s as well as open source.
+
+2. GitHub:- is a Git repository hosting service, but it adds many of its own features. While
+Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides
+access control and several collaboration features, such as a wikis and basic task management
+tools for every project.
