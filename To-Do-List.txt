@@ -1,6 +1,3 @@
-To-Do list for Tuesday: 
+To-Do list for Thursday: 
 
-- Learn more about ZAP and try to run attacks against some urls that would not affect
-the content of them. 
-- Try to finish building the converter
-- Try to finish writing Intrusion Tests
+Enjoy Tech Day!
