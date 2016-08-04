@@ -1,3 +1,4 @@
-Monday, August 1
+Wednesday, August 3
 
-Researched HTTP vs HTTPS
+Had a meeting with our boss's  boss and it all went well. Created our boss presentation for 
+tomorrow's events.
